@@ -1,7 +1,6 @@
 # Berkeley Class Site
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml)
+[![Deploy Jekyll site to Pages](https://github.com/data-188-berkeley/data188sp26.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-188-berkeley/data188sp26.github.io/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-188-berkeley/data188sp26.github.io/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-188-berkeley/data188sp26.github.io/actions/workflows/rspec.yml)
 
 A template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
 
