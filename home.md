@@ -8,6 +8,8 @@ seo:
   name: Data 188 Spring 2026
 ---
 
+# Home
+
 IMPORTANT(2026-01-09) This is a WORK IN PROGRESS, and not finalized.
 
 ## Course Description
